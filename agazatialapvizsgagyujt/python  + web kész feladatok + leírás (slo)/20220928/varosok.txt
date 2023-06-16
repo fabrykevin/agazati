@@ -1,0 +1,28 @@
+1. Kérjen be egy várost! Van-e ilyen cél?
+2. Kérjen be egy várost! Hány járat megy oda?
+
+
+https://hu.wikipedia.org/wiki/F%C3%A9rfi_t%C3%A1volugr%C3%A1s_a_2017-es_atl%C3%A9tikai_vil%C3%A1gbajnoks%C3%A1gon
+Kérje be egy versenyző nevét! Indult-e...
+Legnagyobb ugrás...
+Mennyien ugrottak többet mint (bekérés)...
+Átlag...
+Gipsz Jakab is indult, kérjük be nevét és eredményeit és vegyük fel a megfelelő listákba az adatait!
+
+-------------
+Split ???
+t:\slo\egyeb\autok.csv
+- flotta összeértéke
+- átlag életkor
+- kérje színt -> hány ilyen színű van
+- büntetés csekk (rendszám) -> van ilyen rendszámű autó a listában?
+- legerősebb autó (LE)
+- Legkisebb fogyasztású autó
+
+-> függvények param: sor, válasz pedig egy-egy adat (pl.: LE)
+
+
+
+
+
+

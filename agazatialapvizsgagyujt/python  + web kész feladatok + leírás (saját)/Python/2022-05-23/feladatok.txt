@@ -1,0 +1,19 @@
+https://orvosilexikon.hu/kalkulatorok/veralkoholszint-kalkulator
+
+vérezrelék = alkohol (g) / Ts (kg)
+A bevitt alkohol mennyisége (g) kiszámítható az alábbiak alapján:
+
+alkohol (g) = ital (dl) x V/V% (vol %) x 0,8(ld. fent)
+Példával bemutatva. 5 dl, 4 V/V%-os sör elfogyasztása 5 x 4 x 0,8 = 16 g etil-alkoholnak felel meg.
+
+Ha ezt a mennyiséget egy 70 kg-os ember fogyasztja el: 16 / 70 = 0,2 ezreléknek felel meg.
+
+
+----------------------------------------
+Átlagsebesség kalkulátor
+Be: két kapu között: óra, perc, másodperc
+
+----------------------------------------
+Darts: 501 Single out, fgv. 3 dobásra
+Tripla dobás esélye: 1:10
+Dupla dobás esélye: 1:5

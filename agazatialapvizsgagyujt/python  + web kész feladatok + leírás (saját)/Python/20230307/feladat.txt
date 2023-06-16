@@ -1,0 +1,5 @@
+1. olvassa be
+2. hány 20.századi Film
+3.Kérjen be egy rendezőt és írja ki a listában szereplő fil címét
+4. keresse meg a leghosszabb filmeket
+5. kérjen be egy kategoriat és mondja meg abban kategoriaban hány film van

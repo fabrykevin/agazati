@@ -1,0 +1,6 @@
+1 olvassuk be
+2 hány autó van a listában
+3 hány %-a benzines?
+4 melyik után tudom elérni a legmagasabb jutalékot?
+5 statisztika az évjáratokról?
+irjon faljt a 8000000 alatti autokról olcso.txt-be

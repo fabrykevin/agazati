@@ -1,0 +1,9 @@
+0 fájl bolvasás
+1 hány étel van az étlapon
+2 hány főétel van a listában
+3 legolcsóbb kaja
+3 legolcsóbb menü
+4 összes árbevétel (mennyiseg*ár*402,5) a főételekből
+5 statisztika fajta-rendelt mennyiseg
+
+

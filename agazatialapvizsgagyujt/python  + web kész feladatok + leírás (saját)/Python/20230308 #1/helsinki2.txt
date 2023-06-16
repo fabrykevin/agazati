@@ -1,0 +1,68 @@
+1 17 atletika kalapacsvetes
+ 1 17 uszas 400m_gyorsuszas
+ 1 17 birkozas kotott_fogas_legsuly
+ 1 17 torna talajtorna
+ 1 17 torna felemas_korlat
+ 1 17 vivas kardvivas_egyeni
+ 1 17 okolvivas nagyvaltosuly
+ 1 17 uszas 200m_melluszas
+ 1 17 birkozas kotott_fogas_valtosuly
+ 1 17 uszas 100m_gyorsuszas
+ 1 17 sportloveszet onmukodo_sportpisztoly
+ 1 157 labdarugas ferfi_csapat
+ 1 37 ottusa ferfi_csapat
+ 1 67 vivas kardvivas_csapat
+ 1 57 uszas 4x100m_gyorsuszo_valto
+ 1 137 vizilabda ferfi_csapat
+ 2 15 ottusa ottusa_egyeni
+ 2 15 vivas torvivas_egyeni
+ 2 15 vivas kardvivas_egyeni
+ 2 15 sportloveszet onmukodo_sportpisztoly
+ 2 15 uszas 400m_gyorsuszas
+ 2 15 uszas 200m_melluszas
+ 2 1 5 kajakkenu kenu_egyes_10000m
+ 2 1 5 kajakkenu kajak_egyes_1000m
+ 2 15 birkozas kotott_fogas_pehelysuly
+ 2 85 torna noi_osszetett_csapat
+ 3 14 sportloveszet sportpisztoly
+ 3 14 vivas kardvivas_egyeni
+ 3 14 atletika tavolugras
+ 3 14 birkozas szabad_fogas_kozepsuly
+ 3 14 torna felemas_korlat
+ 3 14 torna osszetett_egyeni
+ 3 14 torna gerenda
+ 3 14 torna talajtorna
+ 3 14 atletika kalapacsvetes
+ 3 14 atletika 50km_gyaloglas
+ 3 14 ottusa ottusa_egyeni
+ 3 14 uszas 100m_gyorsuszas
+ 3 44 atletika 4x100m_valtofutas
+ 3 2 4 kajakkenu kenu_kettes_10000m
+ 3 84 torna keziszer_csapat
+ 3 64 vivas torvivas_csapat
+ 4 13 torna gerenda
+ 4 13 uszas 200m_mell
+ 4 13 birkozas kotottfogas_felnehezsuly
+ 4 13 torna talaj
+ 4 13 birkozas kotottfogas_kozepsuly
+ 4 13 birkozas kotottfogas_konnyusuly
+ 5 12 okolvivas pehelysuly
+ 5 12 okolvivas konnyusuly
+ 5 12 uszas 100m_gyors
+ 5 12 atletika diszkoszvetes
+ 5 12 vivas parbajtor_egyeni
+ 5 22 kajak–kenu kenu_kettes_1000m
+ 5 22 kerekparozas ketuleses_verseny
+ 5 42 uszas 4×200m_gyorsvalto
+ 5 52 vivas parbajtor_csapat
+ 6 11 birkozas kotottfogas_legsuly
+ 6 11 kajak–kenu kajak_egyes_500m
+ 6 11 torna osszetett_egyeni
+ 6 11 kerekparozas repuloverseny
+ 6 11 uszas 400m_gyors
+ 6 11 torna felemaskorlat
+ 6 81 torna osszetett_csapat
+
+
+ 
+ 

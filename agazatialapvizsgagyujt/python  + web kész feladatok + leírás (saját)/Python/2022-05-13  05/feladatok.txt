@@ -1,0 +1,6 @@
+- Kérj be egy számot a billentyűzetről! Írd ki, hogy prímszám-e!
+- Írd ki a képernyőre az első 50 db prímszámot!
+
+- A program írja ki a Fibonacci sorozat első 40 db elemét.
+
+- HF: Három tetszőleges számról döntse el a program, hogy számtani sorozatot alkotnak-e!

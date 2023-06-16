@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+a{
+    color:#336600;
+
+}
+a:visited{
+    color:  red;
+
+}
+a:hover{
+    color: yellow;
+    background-color: black;
+    border-radius: 3px;
+}
+h2, h3{
+    color: #22b14c;
+}
+h2{color: red;}
+
+#noveny{
+float: right;
+margin-left: 10px;
+margin-right: 10px;
+border: 2px solid black;
+}

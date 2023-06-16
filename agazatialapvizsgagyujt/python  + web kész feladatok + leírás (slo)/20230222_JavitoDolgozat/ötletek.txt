@@ -1,0 +1,4 @@
+- készítsen függvényeket:
+	- kapott jegyekből (pl.: "554434") megmondja az átlagot. 
+	  Ha van benne 1-es, akkor az átlag automatikusan 1-es
+	- Az átlagból megmondja a havi ösztöndíj összegét

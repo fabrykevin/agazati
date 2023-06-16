@@ -1,0 +1,17 @@
+def teglatestAdatok():
+    a = float(input('"a" oldal hossza: '))
+    b = float(input('"b" oldal hossza: '))
+    c = float(input('"c" oldal hossza: '))
+
+    return [a, b, c]
+
+
+def teglatestTerfogat():
+    a, b, c = teglatestAdatok()
+
+    print(f'A téglatest térfogata: {a * b * c}')
+
+def teglatestFelszin():
+    a, b, c = teglatestAdatok()
+
+    print(f'A téglatest felszíne: {2 * (a * b + b * c + c * a)}')
