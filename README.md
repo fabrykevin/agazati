@@ -1,1 +1,1 @@
-# agazati
+# agazativizsga segédlet-python-packet tracer-html
